@@ -17,7 +17,11 @@ I'm not very familiar with the concrete business but I am assuming that a big ch
 * Heroku for Hosting
 
 ##Client Information:##
+
 Based in Des Moines IA 
+
 (515) 207-6369
-www.concretecontractordesmoines@gmail.com
+
+[concretecontractordesmoines@gmail.com](mailto:concretecontractordesmoines@gmail.com)
+
 Mentions of this client found on the web: [http://www.petsforsalepetsforsale.com/construction/vandalism-at-the-school](http://www.petsforsalepetsforsale.com/construction/vandalism-at-the-school/)
